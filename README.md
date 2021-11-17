@@ -9,23 +9,22 @@ In this challenge, the data analytics team did the following:
 * Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
 * Run t-tests to determine if the manufacturing lots are statistically different from the mean population
 
-![img](./Resources/Linear_regression.png)
+![img](./Resources/Linear_regression.PNG)
 
-![img](./Resources/Summary_lm.png)
-
-
-![img](./Resources/total_summary.png)
-
-![img](./Resources/Lot_summary.png)
+![img](./Resources/Summary_lm.PNG)
 
 
-![img](./Resources/One%20Sample%20t-test.png)
+![img](./Resources/total_summary.PNG)
 
-![img](./Resources/One%20Sample%20t-test_Lot1.png)
+![img](./Resources/Lot_summary.PNG)
 
-![img](./Resources/One%20Sample%20t-test_Lot2.png)
+![img](./Resources/One%20Sample%20t-test.PNG)
 
-![img](./Resources/One%20Sample%20t-test_Lot3.png)
+![img](./Resources/One%20Sample%20t-test_Lot1.PNG)
+
+![img](./Resources/One%20Sample%20t-test_Lot2.PNG)
+
+![img](./Resources/One%20Sample%20t-test_Lot3.PNG)
 
 ## results
 
