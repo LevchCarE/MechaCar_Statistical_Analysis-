@@ -26,6 +26,3 @@ In this challenge, the data analytics team did the following:
 
 ![img](./Resources/One%20Sample%20t-test_Lot3.PNG)
 
-## results
-
-## Summary
